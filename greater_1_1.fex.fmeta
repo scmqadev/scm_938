@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="6">
+        <entry key="InsightDesigner" value="true"/>
+        <entry key="LastDescribed" value="1777030943566"/>
+        <entry key="OutputFormat" value="PDF"/>
+        <entry key="masters" value="&quot;ibisamp/car"/>
+        <entry key="skipamper" value="on"/>
+        <entry key="tool" value="infoAssist,report,IAFull"/>
+    </properties>
+    <extendedProperties _jt="HashMap">
+        <entry>
+            <key _jt="string" value="_IA_Metadata"/>
+            <value _jt="string" value="-* Created By InfoAssist , ON: April 24, 2026, Version: HEAD-SNAPSHOT,2EE393&#10;-*Do not delete or modify the comments below&#10;*-INTERNAL_COMMENT LINE#0$PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tMS4wLS0+PFJvb3QgcmVsZWFzZT0iOS45LjkuOSIgdmVyc2lvbj0iMS40Ij4NCiAgICA8T2JqZWN0IG9iamVjdElkPSJUYWJsZUNoYXJ0XzEiPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY29tcG9uZW50Q3VzdG9tVGl0bGUiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJMaW5rZWRTb3J0cyIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyIvPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iSGlkZGVuRmllbGRzIiB0eXBlPSJNYXAiPg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iU29ydHMiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9IlZlcmJzIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJUeXBlT2ZDYW52YXNGb3JDb21wb25lbnQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmpzb248L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iZm9vdGVyRGVmYXVsdFZpc2libGUiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJkdWFsQnVja2V0TnVtZXJpYyIgdHlwZT0iTWFwIi8+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJUYWJsZVR5cGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRhYmxlPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9IldoZXJlVHlwZXNPcmRlcmVkIiB0eXBlPSJMaXN0Ij4NCiAgICAgICAgICAgIDxFbnRyeSB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5DRF9XSEVSRTwvRW50cnk+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJwYXJhbWV0ZXJWYXJpYWJsZVBsYWNlSG9sZGVyIiB0eXBlPSJNYXAiLz4NCiAgICA8L09iamVjdD4NCiAgICA8T2JqZWN0IG9iamVjdElkPSJHTE9CQUwiPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iU2FtcGxlRGF0YSIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPmZhbHNlPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbFJlY29yZExpbWl0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj4xMDAwPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbFJ1blJlY29yZExpbWl0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj4wPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbE9wdGltaXphdGlvbiIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPmZhbHNlPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImZpZWxkRGlzcGxheU1vZGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmxhYmVsPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9InByZWZpeERpc3BsYXlNb2RlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJBY3RpdmVfU3R5bGVfVXNlcl90eXBlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5wb3dlcjwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJMaW5rZWRTb3J0cyIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+bm90IGluaXRpYWxpemVkPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9InJzX3NhbXBsaW5nX2VuYWJsZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+TElWRV9EQVRBPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImZleExldmVsR3JheU91dEZpZWxkc01vZGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9InVzZXJPdXRwdXRGb3JtYXQiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJjZEJpbkluZm8iIHR5cGU9Ik1hcCIvPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iRm9jZXhlY1ByZWZlcmVuY2VzIiB0eXBlPSJNYXAiPg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9wcmV2aWV3X3BhZ2VsaW1pdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+NTwvRW50cnk+DQogICAgICAgICAgICA8RW50cnkga2V5PSJhdXRvRHJpbGxTY3JpcHQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImVuYWJsZUluZm9NaW5pX1NhdmUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPnRydWU8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0ibWV0YWRhdGFfdmlld3MiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPk1ldGFEYXRhVHJlZS5WSUVXX0RJTVM8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9wcmV2aWV3X3BhZ2VsaW1pdF9sYXlvdXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjE8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iZGVmYXVsdF9jb21wb3NlX2Zvcm1hdCIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+QUhUTUw8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iSXNHcmF5T3V0RmllbGRzTW9kZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L0VudHJ5Pg0KICAgICAgICA8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY2FzY2FkZU5hbWVzIiB0eXBlPSJNYXAiLz4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ik1hc3Rlcl9GaWxlcyIgdHlwZT0iU2V0Ij4NCiAgICAgICAgICAgIDxFbnRyeSB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5pYmlzYW1wL2NhcjwvRW50cnk+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJt&#10;*-INTERNAL_COMMENT LINE#1$ZXRhZGF0YVZpZXdBcyIgdHlwZT0iTWFwIj4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImliaXNhbXAvY2FyIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5NZXRhRGF0YVRyZWUuVklFV19ESU1TPC9FbnRyeT4NCiAgICAgICAgPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9IlJzX0ZvY2NhY2hlX1NhbXBsaW5nX0RhdGFfTWFzdGVyRmlsZV9NYXAiIHR5cGU9Ik1hcCI+DQogICAgICAgICAgICA8RW50cnkga2V5PSJpYmlzYW1wL2NhciIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+IENSRUFURV9TQU1QTElORyANCiB7JmFtcDtxdW90O3NvdXJjZV9hcHAmYW1wO3F1b3Q7IDogJmFtcDtxdW90O2liaXNhbXAmYW1wO3F1b3Q7LA0KJmFtcDtxdW90O3NvdXJjZV9uYW1lJmFtcDtxdW90OyA6ICZhbXA7cXVvdDtjYXImYW1wO3F1b3Q7DQp9DQpFTkQNCjwvRW50cnk+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJHbG9iYWxWYWx1ZXNQYWdpbmciIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjQ8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iRGVzaWduZXJfUGFnZV9Nb2RlIiB0eXBlPSJqYXZhLmxhbmcuQm9vbGVhbiI+ZmFsc2U8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iZW5hYmxlUHJldmlldyIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPnRydWU8L1Byb3BlcnR5Pg0KICAgIDwvT2JqZWN0Pg0KPC9Sb290Pg0K&#10;-*Do not delete or modify the comments above&#10;"/>
+        </entry>
+        <entry>
+            <key _jt="string" value="CopiedFrom"/>
+            <value _jt="string" value="d6f445b4_f062_4ff2_bd6c_7829888b386e_2144597770"/>
+        </entry>
+    </extendedProperties>
+    <nlsValues _jt="HashMap">
+        <entry>
+            <key _jt="string" value="en_US"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Greater_1_1"/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="1">
+        <item _jt="IBRFexParameter" amperFormat="D7" datadomain="DEALER_COST" description="DEALER_COST" index="0" multiselect="false" parent="" parmname="DF_WH_SUM_DEALER_COST" required="false">
+            <amperVarType class="com.ibi.wfrs.IBFSAmperVarType" name="defaultType"/>
+            <amperVar aggType="SUM" amperIdx="13" chainIdx="-1" class="com.ibi.wfrs.IBFSWFDescribe$AmperVar" description="DEALER_COST" fieldName="car.BODY.DEALER_COST" format="D7" idxInChain="-1" inForm="true" isDefault="true" max="0.0" min="0.0" name="DF_WH_SUM_DEALER_COST" noSelection="false" operation="" parent="" proc="PREMRVALUES" sortFields="car.ORIGIN.COUNTRY" sortOrder="ASCENDING" strDef="_FOC_NULL" validate="">
+                <type class="com.ibi.wfrs.IBFSAmperVarType" name="defaultType"/>
+                <userDefValues _jt="array" itemsClass="string" size="1">
+                    <item _jt="string" index="0" value="_FOC_NULL"/>
+                </userDefValues>
+                <defValues _jt="array" itemsClass="string" size="1">
+                    <item _jt="string" index="0" value="_FOC_NULL"/>
+                </defValues>
+                <displayType class="com.ibi.wfrs.IBFSAmperDisplayType" name="find"/>
+                <values class="java.util.LinkedHashMap"/>
+                <dynValues class="com.ibi.wfrs.IBFSWFDescribe$DynamicAmper" displayField="" field="car.BODY.DEALER_COST" file="ibisamp/car">
+                    <type class="com.ibi.wfrs.IBFSAmperDisplayType" name="find"/>
+                </dynValues>
+                <parameters _jt="HashMap">
+                    <entry>
+                        <key _jt="string" value="AGG"/>
+                        <value _jt="string" value="SUM"/>
+                    </entry>
+                    <entry>
+                        <key _jt="string" value="PROC"/>
+                        <value _jt="string" value="PREMRVALUES"/>
+                    </entry>
+                    <entry>
+                        <key _jt="string" value="COMPARATOR"/>
+                        <value _jt="string" value="GT"/>
+                    </entry>
+                    <entry>
+                        <key _jt="string" value="FIELDNAME"/>
+                        <value _jt="string" value="car.BODY.DEALER_COST"/>
+                    </entry>
+                    <entry>
+                        <key _jt="string" value="BYS"/>
+                        <value _jt="string" value="car.ORIGIN.COUNTRY"/>
+                    </entry>
+                </parameters>
+            </amperVar>
+        </item>
+    </fexParameters>
+</rootObject>
